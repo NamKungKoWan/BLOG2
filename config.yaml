@@ -1,4 +1,4 @@
-baseurl: https://github.com/NamKungKoWan
+baseurl: https://namkungkowan.github.io
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
