@@ -26,11 +26,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://namkungkowan.github.io/BLOG2/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-hk"
                 href="https://namkungkowan.github.io/BLOG2/"
                 />
@@ -59,11 +54,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://namkungkowan.github.io/BLOG2/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-hk"
                 href="https://namkungkowan.github.io/BLOG2/categories/"
                 />
@@ -89,11 +79,6 @@
                 rel="alternate"
                 hreflang="zh-yue"
                 href="https://namkungkowan.github.io/BLOG2/zh-yue/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://namkungkowan.github.io/BLOG2/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -215,11 +200,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://namkungkowan.github.io/BLOG2/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-hk"
                 href="https://namkungkowan.github.io/BLOG2/tags/"
                 />
@@ -239,39 +219,22 @@
     <loc>https://namkungkowan.github.io/BLOG2/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://namkungkowan.github.io/BLOG2/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://namkungkowan.github.io/BLOG2/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hk"
-                href="https://namkungkowan.github.io/BLOG2/p/placeholder-text/"
-                />
-  </url><url>
-    <loc>https://namkungkowan.github.io/BLOG2/tags/tag-with-whitespaces/</loc>
+    <loc>https://namkungkowan.github.io/BLOG2/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://namkungkowan.github.io/BLOG2/categories/test/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://namkungkowan.github.io/BLOG2/zh-cn/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hk"
-                href="https://namkungkowan.github.io/BLOG2/categories/test/"
-                />
-  </url><url>
-    <loc>https://namkungkowan.github.io/BLOG2/categories/test-with-whitespaces/</loc>
+    <loc>https://namkungkowan.github.io/BLOG2/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://namkungkowan.github.io/BLOG2/tags/text/</loc>
+    <loc>https://namkungkowan.github.io/BLOG2/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://namkungkowan.github.io/BLOG2/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://namkungkowan.github.io/BLOG2/tags/%D9%86%D8%B5/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://namkungkowan.github.io/BLOG2/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://namkungkowan.github.io/BLOG2/p/math-typesetting/</loc>
@@ -282,6 +245,19 @@
   </url><url>
     <loc>https://namkungkowan.github.io/BLOG2/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://namkungkowan.github.io/BLOG2/categories/test/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://namkungkowan.github.io/BLOG2/zh-cn/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://namkungkowan.github.io/BLOG2/categories/test/"
+                />
   </url><url>
     <loc>https://namkungkowan.github.io/BLOG2/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>

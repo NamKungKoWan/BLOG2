@@ -26,11 +26,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://namkungkowan.github.io/BLOG2/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ja"
                 href="https://namkungkowan.github.io/BLOG2/ja/categories/"
                 />
@@ -56,11 +51,6 @@
                 rel="alternate"
                 hreflang="zh-yue"
                 href="https://namkungkowan.github.io/BLOG2/zh-yue/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://namkungkowan.github.io/BLOG2/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -120,11 +110,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://namkungkowan.github.io/BLOG2/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ja"
                 href="https://namkungkowan.github.io/BLOG2/ja/"
                 />
@@ -177,11 +162,6 @@
                 rel="alternate"
                 hreflang="zh-yue"
                 href="https://namkungkowan.github.io/BLOG2/zh-yue/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://namkungkowan.github.io/BLOG2/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
