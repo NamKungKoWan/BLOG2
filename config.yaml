@@ -1,4 +1,4 @@
-baseurl: https://github.com/NamKungKoWan/BLOG2/
+baseurl: https://namkungkowan.github.io/BLOG2
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
