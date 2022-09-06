@@ -2,164 +2,164 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/ar/categories/</loc>
+    <loc>https://github.com/NamKungKoWan/ar/categories/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/categories/"
+                href="https://github.com/NamKungKoWan/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
-                href="http://www.example.com/categories/"
+                href="https://github.com/NamKungKoWan/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/ja/categories/"
+                href="https://github.com/NamKungKoWan/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.example.com/zh-cn/categories/"
+                href="https://github.com/NamKungKoWan/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-yue"
-                href="http://www.example.com/zh-yue/categories/"
+                href="https://github.com/NamKungKoWan/zh-yue/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://www.example.com/ar/categories/"
+                href="https://github.com/NamKungKoWan/ar/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/ar/post/</loc>
+    <loc>https://github.com/NamKungKoWan/ar/post/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/post/"
+                href="https://github.com/NamKungKoWan/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
-                href="http://www.example.com/post/"
+                href="https://github.com/NamKungKoWan/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/ja/post/"
+                href="https://github.com/NamKungKoWan/ja/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.example.com/zh-cn/post/"
+                href="https://github.com/NamKungKoWan/zh-cn/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-yue"
-                href="http://www.example.com/zh-yue/post/"
+                href="https://github.com/NamKungKoWan/zh-yue/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://www.example.com/ar/post/"
+                href="https://github.com/NamKungKoWan/ar/post/"
                 />
   </url><url>
-    <loc>http://www.example.com/ar/tags/</loc>
+    <loc>https://github.com/NamKungKoWan/ar/tags/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/tags/"
+                href="https://github.com/NamKungKoWan/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
-                href="http://www.example.com/tags/"
+                href="https://github.com/NamKungKoWan/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/ja/tags/"
+                href="https://github.com/NamKungKoWan/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.example.com/zh-cn/tags/"
+                href="https://github.com/NamKungKoWan/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-yue"
-                href="http://www.example.com/zh-yue/tags/"
+                href="https://github.com/NamKungKoWan/zh-yue/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://www.example.com/ar/tags/"
+                href="https://github.com/NamKungKoWan/ar/tags/"
                 />
   </url><url>
-    <loc>http://www.example.com/ar/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
+    <loc>https://github.com/NamKungKoWan/ar/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/ar/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
+    <loc>https://github.com/NamKungKoWan/ar/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/ar/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</loc>
+    <loc>https://github.com/NamKungKoWan/ar/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/</loc>
+    <loc>https://github.com/NamKungKoWan/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
-                href="http://www.example.com/p/placeholder-text/"
+                href="https://github.com/NamKungKoWan/p/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://www.example.com/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
+                href="https://github.com/NamKungKoWan/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
                 />
   </url><url>
-    <loc>http://www.example.com/ar/</loc>
+    <loc>https://github.com/NamKungKoWan/ar/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/"
+                href="https://github.com/NamKungKoWan/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
-                href="http://www.example.com/"
+                href="https://github.com/NamKungKoWan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/ja/"
+                href="https://github.com/NamKungKoWan/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.example.com/zh-cn/"
+                href="https://github.com/NamKungKoWan/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-yue"
-                href="http://www.example.com/zh-yue/"
+                href="https://github.com/NamKungKoWan/zh-yue/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://www.example.com/ar/"
+                href="https://github.com/NamKungKoWan/ar/"
                 />
   </url><url>
-    <loc>http://www.example.com/ar/tags/%D9%86%D8%B5/</loc>
+    <loc>https://github.com/NamKungKoWan/ar/tags/%D9%86%D8%B5/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/ar/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
+    <loc>https://github.com/NamKungKoWan/ar/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
 </urlset>
