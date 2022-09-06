@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>测试 on 星夜同學的雜貨鋪</title>
-        <link>https://namkungkowan.github.io/BLOG2/categories/%E6%B5%8B%E8%AF%95/</link>
+        <link>https://namkungkowan.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
         <description>Recent content in 测试 on 星夜同學的雜貨鋪</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://namkungkowan.github.io/BLOG2/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://namkungkowan.github.io/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>在ubuntu22.04上安裝mediawiki 記錄</title>
-        <link>https://namkungkowan.github.io/BLOG2/p/%E5%9C%A8ubuntu22.04%E4%B8%8A%E5%AE%89%E8%A3%9Dmediawiki-%E8%A8%98%E9%8C%84/</link>
+        <link>https://namkungkowan.github.io/p/%E5%9C%A8ubuntu22.04%E4%B8%8A%E5%AE%89%E8%A3%9Dmediawiki-%E8%A8%98%E9%8C%84/</link>
         <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://namkungkowan.github.io/BLOG2/p/%E5%9C%A8ubuntu22.04%E4%B8%8A%E5%AE%89%E8%A3%9Dmediawiki-%E8%A8%98%E9%8C%84/</guid>
+        <guid>https://namkungkowan.github.io/p/%E5%9C%A8ubuntu22.04%E4%B8%8A%E5%AE%89%E8%A3%9Dmediawiki-%E8%A8%98%E9%8C%84/</guid>
         <description>&lt;h2 id=&#34;我想说些什么&#34;&gt;我想说些什么？&lt;/h2&gt;
 &lt;p&gt;先安裝net-tool,vim。&lt;/p&gt;
 &lt;h4 id=&#34;安裝php743-以下命令可安裝所有需要的軟件-官網上說不兼容php8&#34;&gt;安裝php7.4.3 （以下命令可安裝所有需要的軟件） （官網上說不兼容php8）&lt;/h4&gt;
@@ -49,10 +49,10 @@ quit&lt;/p&gt;
         </item>
         <item>
         <title>第一篇文</title>
-        <link>https://namkungkowan.github.io/BLOG2/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87/</link>
+        <link>https://namkungkowan.github.io/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87/</link>
         <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://namkungkowan.github.io/BLOG2/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87/</guid>
+        <guid>https://namkungkowan.github.io/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87/</guid>
         <description>&lt;h2 id=&#34;我到底想說些什麼&#34;&gt;我到底想說些什麼？&lt;/h2&gt;
 &lt;p&gt;至於為什麼會建部落格，可能是一年前學習前端的時候老師佈置了一個模仿他人的網站來寫一個網頁的工作。 我看到一些博主建的部落格介面非常精美，深深吸引了我，就想著自己也來做一個。 我甚至想著以後往前端方向發展。 不過後來看到網上有不少人說做前端的跟在工地搬磚的一樣又累錢又少。 這讓我有些迷茫，在上學期做項目時老師問我打算做什麼“崗位”的，我回答還沒考慮好。 我還烦乱著做前端還是後端。 不過後來全班都分得差不多了他就問我：“你就做後端吧，好嗎？” 我說好。 後來選方向時我也選了後端。&lt;/p&gt;
 &lt;p&gt;至於為什麼，我也想過一段時間，我是缺乏創意的那種人，即使很熟練得調樣式，懂得各種動畫效果，我也可能不會很好得去用。 部落格也是，其實部落格最重要的是內容，介面應該是次要的，不過以本人在中學階段語文成績全班倒數第一的水准，感覺也沒什麼好寫的，所以也很長時間擱置了。 但最近發現不少程式師會在部落格網站記錄自己的解决漏洞的方法以及感想所以我還是按照教程做了這blog。&lt;/p&gt;
