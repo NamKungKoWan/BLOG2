@@ -1,9 +1,8 @@
-baseurl: https://namkungkowan.github.io/BLOG2/
+baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: 星夜同学
-# publishDir: docs
+title: 星夜
 
 languages:
     en:
