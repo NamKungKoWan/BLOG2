@@ -2,7 +2,7 @@ baseurl: https://namkungkowan.github.io/BLOG2/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: 星夜
+title: 星夜同学
 publishDir: docs
 
 languages:
