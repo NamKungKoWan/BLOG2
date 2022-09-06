@@ -22,7 +22,7 @@ apt install imagemagick php7.4-fpm php7.4-intl php7.4-xml php7.4-curl php7.4-gd 
 
 
 
-安裝apache
+## 安裝apache
 
 ## 安裝mariadb
 
@@ -32,21 +32,28 @@ apt install mariadb-server
 {{< /highlight >}}
 
 設置數據庫密碼：
-
+{{< highlight html >}}
 mysql -u root p
-
+{{< /highlight >}}
 
 ## 在mariadb上創建用戶
+{{< highlight html >}}
 CREATE DATABASE wikidb;
+
 CREATE USER 'wikiuser'@'localhost' IDENTIFIED BY 'password';
+
 GRANT ALL PRIVILEGES ON wikidb.* TO 'wikiuser'@'localhost' WITH GRANT OPTION;
+{{< /highlight >}}
 
 ## 給wikidb用戶設置密碼
+{{< highlight html >}}
 set password for 'wikiuser'@'localhost'=password('设置mysql密码');         //不然在設置localsetting.php時會出問題
 
 flush privileges;
+
 quit
 
 service mysql stop
 
 service mysql restart 
+{{< /highlight >}}
