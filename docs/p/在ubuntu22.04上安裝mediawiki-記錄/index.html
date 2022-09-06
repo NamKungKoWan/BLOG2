@@ -5,13 +5,13 @@
 安裝php7.4.3 （以下命令可安裝所有需要的軟件） （官網上說不兼容php8） 1  apt install imagemagick php7.4-fpm php7.4-intl php7.4-xml php7.4-curl php7.4-gd php7.4-mbstring php7.4-mysql php7.4-mysql php7.4-apcu php7.4-zip   安裝apache 安裝mariadb 1  apt install mariadb-server   設置數據庫密碼： 1  mysql -u root p  
 在mariadb上創建用戶 1 2 3 4 5  CREATE DATABASE wikidb; CREATE USER &amp;#39;wikiuser&amp;#39;@&amp;#39;localhost&amp;#39; IDENTIFIED BY &amp;#39;password&amp;#39;; GRANT ALL PRIVILEGES ON wikidb.* TO &amp;#39;wikiuser&amp;#39;@&amp;#39;localhost&amp;#39; WITH GRANT OPTION;   給wikidb用戶設置密碼 1 2 3 4 5 6 7 8 9  set password for &amp;#39;wikiuser&amp;#39;@&amp;#39;localhost&amp;#39;=password(&amp;#39;设置mysql密码&amp;#39;); //不然在設置localsetting.'><title>在ubuntu22.04上安裝mediawiki 記錄</title>
 
-<link rel='canonical' href='https://namkungkowan.github.io/p/%E5%9C%A8ubuntu22.04%E4%B8%8A%E5%AE%89%E8%A3%9Dmediawiki-%E8%A8%98%E9%8C%84/'>
+<link rel='canonical' href='http://www.example.com/p/%E5%9C%A8ubuntu22.04%E4%B8%8A%E5%AE%89%E8%A3%9Dmediawiki-%E8%A8%98%E9%8C%84/'>
 
 <link rel="stylesheet" href="/scss/style.min.d9e0562edde3d2bdf9d3d81365095a29d062ddaaa5d671f22168e57dfdb18b4f.css"><meta property='og:title' content='在ubuntu22.04上安裝mediawiki 記錄'>
 <meta property='og:description' content='我想说些什么？ 先安裝net-tool,vim。
 安裝php7.4.3 （以下命令可安裝所有需要的軟件） （官網上說不兼容php8） 1  apt install imagemagick php7.4-fpm php7.4-intl php7.4-xml php7.4-curl php7.4-gd php7.4-mbstring php7.4-mysql php7.4-mysql php7.4-apcu php7.4-zip   安裝apache 安裝mariadb 1  apt install mariadb-server   設置數據庫密碼： 1  mysql -u root p  
 在mariadb上創建用戶 1 2 3 4 5  CREATE DATABASE wikidb; CREATE USER &amp;#39;wikiuser&amp;#39;@&amp;#39;localhost&amp;#39; IDENTIFIED BY &amp;#39;password&amp;#39;; GRANT ALL PRIVILEGES ON wikidb.* TO &amp;#39;wikiuser&amp;#39;@&amp;#39;localhost&amp;#39; WITH GRANT OPTION;   給wikidb用戶設置密碼 1 2 3 4 5 6 7 8 9  set password for &amp;#39;wikiuser&amp;#39;@&amp;#39;localhost&amp;#39;=password(&amp;#39;设置mysql密码&amp;#39;); //不然在設置localsetting.'>
-<meta property='og:url' content='https://namkungkowan.github.io/p/%E5%9C%A8ubuntu22.04%E4%B8%8A%E5%AE%89%E8%A3%9Dmediawiki-%E8%A8%98%E9%8C%84/'>
+<meta property='og:url' content='http://www.example.com/p/%E5%9C%A8ubuntu22.04%E4%B8%8A%E5%AE%89%E8%A3%9Dmediawiki-%E8%A8%98%E9%8C%84/'>
 <meta property='og:site_name' content='星夜同學的雜貨鋪'>
 <meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2022-07-05T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2022-07-05T00:00:00&#43;00:00'/>
 <meta name="twitter:title" content="在ubuntu22.04上安裝mediawiki 記錄">
@@ -253,17 +253,17 @@
 
                     <select name="language" onchange="window.location.href = this.selectedOptions[0].value">
                         
-                            <option value="https://namkungkowan.github.io/en/" >English</option>
+                            <option value="http://www.example.com/en/" >English</option>
                         
-                            <option value="https://namkungkowan.github.io/" selected>繁體（香港）</option>
+                            <option value="http://www.example.com/" selected>繁體（香港）</option>
                         
-                            <option value="https://namkungkowan.github.io/ja/" >日本語</option>
+                            <option value="http://www.example.com/ja/" >日本語</option>
                         
-                            <option value="https://namkungkowan.github.io/zh-cn/" >中文</option>
+                            <option value="http://www.example.com/zh-cn/" >中文</option>
                         
-                            <option value="https://namkungkowan.github.io/zh-yue/" >廣東話</option>
+                            <option value="http://www.example.com/zh-yue/" >廣東話</option>
                         
-                            <option value="https://namkungkowan.github.io/ar/" >عربي</option>
+                            <option value="http://www.example.com/ar/" >عربي</option>
                         
                     </select>
                 </li>
