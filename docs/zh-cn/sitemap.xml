@@ -161,6 +161,11 @@
     <loc>https://namkungkowan.github.io/BLOG2/zh-cn/page/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://namkungkowan.github.io/BLOG2/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-hk"
                 href="https://namkungkowan.github.io/BLOG2/page/"
                 />
@@ -200,8 +205,13 @@
     <loc>https://namkungkowan.github.io/BLOG2/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://namkungkowan.github.io/BLOG2/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-hk"
-                href="https://namkungkowan.github.io/BLOG2/about/"
+                href="https://namkungkowan.github.io/BLOG2/%E9%97%9C%E6%96%BC/"
                 />
     <xhtml:link
                 rel="alternate"

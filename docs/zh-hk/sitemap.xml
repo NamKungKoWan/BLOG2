@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://namkungkowan.github.io/BLOG2/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://namkungkowan.github.io/BLOG2/categories/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,7 +59,7 @@
                 />
   </url><url>
     <loc>https://namkungkowan.github.io/BLOG2/post/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -84,6 +84,38 @@
                 rel="alternate"
                 hreflang="zh-hk"
                 href="https://namkungkowan.github.io/BLOG2/post/"
+                />
+  </url><url>
+    <loc>https://namkungkowan.github.io/BLOG2/categories/%E8%A8%98%E9%8C%84/</loc>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://namkungkowan.github.io/BLOG2/p/%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86%E6%B7%B1%E5%85%A5%E6%B7%BA%E5%87%BA%E8%A8%98%E9%8C%84/</loc>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://namkungkowan.github.io/BLOG2/p/%E7%9F%B3%E9%BE%8D%E5%85%AC%E6%B1%BD%E5%9B%9E%E6%86%B6/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-yue"
+                href="https://namkungkowan.github.io/BLOG2/zh-yue/p/%E7%9F%B3%E9%BE%8D%E5%85%AC%E6%B1%BD%E5%9B%9E%E6%86%B6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://namkungkowan.github.io/BLOG2/p/%E7%9F%B3%E9%BE%8D%E5%85%AC%E6%B1%BD%E5%9B%9E%E6%86%B6/"
+                />
+  </url><url>
+    <loc>https://namkungkowan.github.io/BLOG2/categories/%E5%9B%9E%E6%86%B6/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-yue"
+                href="https://namkungkowan.github.io/BLOG2/zh-yue/categories/%E5%9B%9E%E6%86%B6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://namkungkowan.github.io/BLOG2/categories/%E5%9B%9E%E6%86%B6/"
                 />
   </url><url>
     <loc>https://namkungkowan.github.io/BLOG2/p/%E5%9C%A8ubuntu22.04%E4%B8%8A%E5%AE%89%E8%A3%9Dmediawiki-%E8%A8%98%E9%8C%84/</loc>
@@ -145,11 +177,13 @@
                 href="https://namkungkowan.github.io/BLOG2/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87/"
                 />
   </url><url>
-    <loc>https://namkungkowan.github.io/BLOG2/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://namkungkowan.github.io/BLOG2/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://namkungkowan.github.io/BLOG2/en/page/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -159,6 +193,19 @@
                 rel="alternate"
                 hreflang="zh-hk"
                 href="https://namkungkowan.github.io/BLOG2/page/"
+                />
+  </url><url>
+    <loc>https://namkungkowan.github.io/BLOG2/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://namkungkowan.github.io/BLOG2/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://namkungkowan.github.io/BLOG2/archives/"
                 />
   </url><url>
     <loc>https://namkungkowan.github.io/BLOG2/tags/css/</loc>
@@ -259,8 +306,36 @@
                 href="https://namkungkowan.github.io/BLOG2/categories/test/"
                 />
   </url><url>
-    <loc>https://namkungkowan.github.io/BLOG2/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <loc>https://namkungkowan.github.io/BLOG2/%E9%80%A3%E7%B5%90/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://namkungkowan.github.io/BLOG2/en/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://namkungkowan.github.io/BLOG2/%E9%80%A3%E7%B5%90/"
+                />
+  </url><url>
+    <loc>https://namkungkowan.github.io/BLOG2/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://namkungkowan.github.io/BLOG2/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://namkungkowan.github.io/BLOG2/search/"
+                />
+  </url><url>
+    <loc>https://namkungkowan.github.io/BLOG2/%E9%97%9C%E6%96%BC/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://namkungkowan.github.io/BLOG2/en/about/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -269,11 +344,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
-                href="https://namkungkowan.github.io/BLOG2/about/"
+                href="https://namkungkowan.github.io/BLOG2/%E9%97%9C%E6%96%BC/"
                 />
-  </url><url>
-    <loc>https://namkungkowan.github.io/BLOG2/links/</loc>
-  </url><url>
-    <loc>https://namkungkowan.github.io/BLOG2/search/</loc>
   </url>
 </urlset>
